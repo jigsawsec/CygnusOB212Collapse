@@ -9,3 +9,6 @@ So last night I was working on this algorithm and I explained what it was but di
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/2js406M/451428151-503114685577329-5736184502826292671-n.jpg" alt="451428151-503114685577329-5736184502826292671-n" border="0"></a>
 
+# Conclusion
+This was based on research I did using Cirq by Google (Quantum Computing) to simulate the initial idea of a collapsing star using quantum mechanics principles, then I decided to do it by calculations the way I did using Cirq
+but this time visualizing it instead of using Cirq itself so it would be more easily understood.
